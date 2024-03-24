@@ -12,5 +12,8 @@ H0: Fintech Sector receives the most investment
 
 HA: Fintech Sector does not receive the most investment
 
+### visuals
+![alt text](image.png)
+
 ### Author
-Isaa Asante-Kwatia
+Isaac Asante-Kwatia

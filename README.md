@@ -8,11 +8,12 @@ To analyze and answer some questions derived from our goal in order for informed
 
 
 ### Hypothesis
-H0: Fintech Sector receives the most investment
+H0: Technology Sector receives the most investment
 
-HA: Fintech Sector does not receive the most investment
+HA: Technology Sector does not receive the most investment
 
 ### visuals
+
 ![alt text](image.png)
 
 ### Author
